@@ -6,7 +6,7 @@
 
 ### [Dash Doc](https://github.com/qianlifeng/Wox.Plugin.Doc) (v1.0.1) ~ [Download](http://www.getwox.com/plugin/9)
 
-Search through Dash documentations by filtering the keyword for each language/library ~ *by [@qianlifeng](https://github.com/qianlifeng/Wox.Plugin.Doc).*
+Search through Dash documentations by filtering the keyword for each language/library ~ *by [@qianlifeng](https://github.com/qianlifeng/).*
 
 > Triggers: `doc`.
 
